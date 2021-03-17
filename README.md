@@ -1,4 +1,10 @@
-- 👋 Hi, my name is James Cole.
+Hello! My name is James Cole
+
+The technologies I am currently learning are:
+*JavaScript
+*Nodejs
+*Express.js
+
 - 👀 I am currently
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
