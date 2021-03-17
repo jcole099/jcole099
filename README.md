@@ -14,7 +14,7 @@ The technologies I am currently learning are:
 * C++
 * Python
 
-The best way to contact me at this time is through the Discord chat application. My username is dmc_run#4350
+The best way to contact me is through the Discord chat application. My username is dmc_run#4350
 
 <!---
 jcole099/jcole099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
