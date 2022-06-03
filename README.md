@@ -5,6 +5,7 @@ This repository contains a collection of small projects that I have created. The
 The technologies I am currently learning are:
 * JavaScript
 * Node.js
+* React JS
 * Express.js
 * Discord.js
 * Mongoose
