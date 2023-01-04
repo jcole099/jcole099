@@ -1,4 +1,4 @@
-#Hello! My name is James Cole.
+##Hello! My name is James Cole.
 
 This repository contains a collection of small projects that I have created. They are meant to serve as snapshot of my progression of knowledge. I hope that you find them fun and perhaps helpful. I have not gone back and updated the projects. They represent the scope of my abilities when they were created.
 
