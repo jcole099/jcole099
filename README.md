@@ -14,6 +14,7 @@ The technologies I am currently learning are:
 * HTML
 * C++
 * Python
+* SQL
 
 The best way to contact me is through the Discord chat application. My username is dmc_run#4350
 
