@@ -18,7 +18,7 @@ This repository contains a collection of projects that I have created. The proje
 * C++
 * Python
 
-Website: [JCOLE.NET](https://jcole.net/)
+Website: [JCOLE.NET](https://jcole.net/)  
 The best way to contact me is through the Discord chat application. My username is dmc_run#4350.
 
 <!---
