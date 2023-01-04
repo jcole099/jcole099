@@ -1,4 +1,4 @@
-## Hello, I'm 
+Hello, my name is   
 # James Cole.
 
 This repository contains a collection of projects that I have created. The projects are meant to serve as snapshot of my progression of knowledge. I hope that you find them fun and perhaps helpful.
@@ -19,7 +19,7 @@ This repository contains a collection of projects that I have created. The proje
 * Python
 
 Website: [JCOLE.NET](https://jcole.net/)  
-The best way to contact me is through the Discord chat application. My username is dmc_run#4350.
+*For fastest response, contact me through the Discord chat application. My username is dmc_run#4350.*
 
 <!---
 jcole099/jcole099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
